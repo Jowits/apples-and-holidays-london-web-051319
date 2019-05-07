@@ -77,5 +77,5 @@ def all_holidays_with_bbq(holiday_hash)
   supply
 end
 array.flatten
-  
+
 end
